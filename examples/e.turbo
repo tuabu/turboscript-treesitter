@@ -1,0 +1,5 @@
+func hello(){
+  return 1;
+}
+
+turbo hello = 1
